@@ -7,8 +7,8 @@ NACTA transitioned from static links to dynamic web elements, breaking tradition
 
 ### Security & Compliance
 - **Zero Hardcoding:** All IPs, paths, and credentials are isolated in a `.env` file (not included in the repo for security).
-- [cite_start]**Process Integrity:** Automatically manages and cleans up Chrome/Driver processes to ensure server stability[cite: 4].
-- [cite_start]**Encrypted Sync:** Uses Rsync over SSH with custom port and key support[cite: 37].
+- **Process Integrity:** Automatically manages and cleans up Chrome/Driver processes to ensure server stability.
+- **Encrypted Sync:** Uses Rsync over SSH with custom port and key support.
 
 ### Setup
 1. `pip install -r requirements.txt`
