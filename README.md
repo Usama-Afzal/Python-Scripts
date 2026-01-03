@@ -58,5 +58,5 @@ Please feel free to **ping me** or open a **Pull Request**. Let's build better a
 
 ---
 
-**Maintained by:** [Usama Muhammad Afzal]  
+**Maintained by:** Usama Muhammad Afzal  
 **Location:** Karachi, Pakistan 🇵🇰
